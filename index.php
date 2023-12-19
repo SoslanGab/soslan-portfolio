@@ -1,31 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <title>Portofolio Soslan</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    
-    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,700" rel="stylesheet">
-
-    <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
-    <link rel="stylesheet" href="css/animate.css">
-    
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
-    <link rel="stylesheet" href="css/owl.theme.default.min.css">
-    <link rel="stylesheet" href="css/magnific-popup.css">
-
-    <link rel="stylesheet" href="css/aos.css">
-
-    <link rel="stylesheet" href="css/ionicons.min.css">
-
-    <link rel="stylesheet" href="css/bootstrap-datepicker.css">
-    <link rel="stylesheet" href="css/jquery.timepicker.css">
-
-    
-    <link rel="stylesheet" href="css/flaticon.css">
-    <link rel="stylesheet" href="css/icomoon.css">
-    <link rel="stylesheet" href="css/style.css">
-  </head>
   <body>
 
     <div class="KW_progressContainer">
@@ -34,27 +8,14 @@
       </div>
     </div>
     <div class="page">
-    <nav id="colorlib-main-nav" role="navigation">
-      <a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle active"><i></i></a>
-      <div class="js-fullheight colorlib-table">
-        <div class="img" style="background-image: url(images/author-2.jpg);"></div>
-        <div class="colorlib-table-cell js-fullheight">
-          <div class="row no-gutters">
-            <div class="col-md-12 text-center">
-              <h1 class="mb-4"><a href="index.html" class="logo">Soslan Gabaraev</a></h1>
-              <ul>
-                <li class="active"><a href="index.html"><span><small>01</small>Accueil</span></a></li>
-                <li><a href="about.html"><span><small>02</small>A propos</span></a></li>
-                <li><a href="services.html"><span><small>03</small>Services</span></a></li>
-                <li><a href="portfolio.html"><span><small>04</small>Portfolio</span></a></li>
-                <li><a href="blog.html"><span><small>05</small>Blog</span></a></li>
-                <li><a href="contact.html"><span><small>06</small>Contact</span></a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    </nav>
+    
+      <?php
+      
+        include 'menu-nav.php'
+      
+      
+      
+      ?>
     
     <div id="colorlib-page">
       <header>
@@ -108,7 +69,7 @@
                 <div class="p-5">
                   <h2 class="mb-5 background">Salut! Voici un résumer sur moi</h2>
                   <p>J'ai 22 ans, je suis actuellement en formation développeur web fullstack et je suis pationner par le monde de l'informatique   je vous conseil d'aller voir mon <a target="_blank" href="https://www.whire.me/@soslan">whire</a> si vous voulez en savoir plus sur moi</p>
-                  <p><a href="" download="Article_HTML5_download.txt">Télécharger l'article en TXT</a></p>
+                  <p><a target="_blank" href="CV/soslan_cv.pdf" download="soslan_cv">Voir Le CV</a></p>
                   <ul class="ftco-footer-social list-unstyled mt-4">
                     <li><a  target="_blank" href="https://fr.linkedin.com/in/soslan-gabarayev-214906249"><span class="icon-linkedin"></span></a></li>
                   </ul>
@@ -165,6 +126,9 @@
         </div>
       </section>
 
+     
+
+
       <section class="ftco-section">
         <div class="container">
           <div class="row justify-content-center mb-5 pb-5">
@@ -175,46 +139,77 @@
           </div>
           <div class="row no-gutters">
           <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-            <a href="portfolio-single.html" class="image d-flex justify-content-center align-items-center" style="background-image: url('images/insta.png'); " data-scrollax=" properties: { translateY: '-30%'}">
+            <a target="_blank" href="https://soslan-insta.projets.garage404.com/" class="image d-flex justify-content-center align-items-center" style="background-image: url('images/insta.png'); " data-scrollax=" properties: { translateY: '-30%'}">
               <div class="icon d-flex text-center justify-content-center align-items-center">
                 <span class="icon-search"></span>
               </div>
             </a>
             <div class="text">
-              <h4 class="subheading uppercase">aligram</h4>
-              <h2 class="heading"><a href="portfolio-single.html">Ali gram le instagram de aliexpress (mon premier projet en php) </a></h2>
+              <h4 class="subheading uppercase">PHP/HTML/CSS</h4>
+              <h2 class="heading"><a target="_blank" href="https://soslan-insta.projets.garage404.com/">Ali gram le instagram de aliexpress (mon premier projet en php) </a></h2>
               <p>Aligram a été realisé en binomme je me suis occupé du front et un peu de back également, c'était ma première fois avec le PHP et j'en été ravi</p>
               <p><a target="_blank" href="https://soslan-insta.projets.garage404.com/">Voir le Projet</a></p>
             </div>
           </div>
           <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-            <a href="portfolio-single.html" class="image order-2 d-flex justify-content-center align-items-center" style="background-image: url('images/combat.png'); " data-scrollax=" properties: { translateY: '-30%'}">
+            <a target="_blank" href="https://soslan-combat.projets.garage404.com/" class="image order-2 d-flex justify-content-center align-items-center" style="background-image: url('images/combat.png'); " data-scrollax=" properties: { translateY: '-30%'}">
               <div class="icon d-flex text-center justify-content-center align-items-center">
                 <span class="icon-search"></span>
               </div>
             </a>
             <div class="text order-1">
-              <h4 class="subheading">Combat</h4>
-              <h2 class="heading"><a href="portfoli-singleo.html">Le Tp Combat</a></h2>
+              <h4 class="subheading">POO</h4>
+              <h2 class="heading"><a target="_blank" href="https://soslan-combat.projets.garage404.com/">Le Tp Combat</a></h2>
               <p>Ce Tp était travaillé en solo, c'est le Tp qui m'a le plus plus au vu de la thématique je suis un grand fan de combat alors je me suis régalé sur le front. C'était notre premier projet en POO</p>
               <p><a target="_blank" href="https://soslan-combat.projets.garage404.com/">Voir le Projet</a></p>
             </div>
           </div>
+
           <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-            <a href="portfolio-single.html" class="image d-flex justify-content-center align-items-center" style="background-image: url('images/work-3.jpg'); " data-scrollax=" properties: { translateY: '-30%'}">
+            <a target="_blank" href="https://soslan-luxury.projets.garage404.com/" class="image d-flex justify-content-center align-items-center" style="background-image: url('images/image-luxury.png'); " data-scrollax=" properties: { translateY: '-30%'}">
               <div class="icon d-flex text-center justify-content-center align-items-center">
                 <span class="icon-search"></span>
               </div>
             </a>
             <div class="text">
-              <h4 class="subheading">Luxury</h4>
-              <h2 class="heading"><a href="portfolio-single.html">Tp Luxury</a></h2>
+              <h4 class="subheading">Symfony</h4>
+              <h2 class="heading"><a target="_blank" href="https://soslan-luxury.projets.garage404.com/">Tp Luxury</a></h2>
               <p>Ce Tp est le premier Tp Symfony qu'on a fait-on l'a réalisé en solo, j'ai bien aimé Symfony j'aime beaucoup ce framework j'aimerais le perfectionner</p>
-              <p><a href="https://soslan-luxury.projets.garage404.com/">Voir le Projet</a></p>
+              <p><a target="_blank" href="https://soslan-luxury.projets.garage404.com/">Voir le Projet</a></p>
             </div>
           </div>
+          
+          <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
+            <a target="_blank" href="https://prestasoslan.projets.garage404.com/" class="image order-2 d-flex justify-content-center align-items-center" style="background-image: url('images/image_prestashop.png'); object-fit: contain ; " data-scrollax=" properties: { translateY: '-30%'}">
+              <div class="icon d-flex text-center justify-content-center align-items-center">
+                <span class="icon-search"></span>
+              </div>
+            </a>
+            <div class="text order-1">
+              <h4 class="subheading">PrestaShop</h4>
+              <h2 class="heading"><a target="_blank" href="https://prestasoslan.projets.garage404.com/">TP PrestaShop</a></h2>
+              <p>EFS(Elite Fighting Shop) c'est ma decouverte de PrestaShop un module assez sympa facile a utilisé pas trés compliqué a comprendre</p>
+              <p><a target="_blank" href="https://prestasoslan.projets.garage404.com/">Voir le Projet</a></p>
+            </div>
+          </div> 
+
+          <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
+            <a target="_blank" href="https://reactcombat.vercel.app/" class="image d-flex justify-content-center align-items-center" style="background-image: url('images/image-combat.png'); " data-scrollax=" properties: { translateY: '-30%'}">
+              <div class="icon d-flex text-center justify-content-center align-items-center">
+                <span class="icon-search"></span>
+              </div>
+            </a>
+            <div class="text">
+              <h4 class="subheading">React</h4>
+              <h2 class="heading"><a target="_blank" href="https://reactcombat.vercel.app/">Tp Luxury</a></h2>
+              <p>Ce Tp est le premier Tp React qu'on a fait-on l'a réalisé en solo, j'ai bien aimé React j'aime beaucoup ce framework j'aimerais le perfectionner</p>
+              <p><a target="_blank" href="https://reactcombat.vercel.app/">Voir le Projet</a></p>
+            </div>
+          </div>     
+
+          
         </div>
-        </div>
+      </div>
       </section>
 
       <section class="ftco-section ftco-counter" id="section-counter">
@@ -258,33 +253,11 @@
         </div>
       </section>
       
-      <footer class="ftco-footer ftco-bg-dark ftco-section">
-        <div class="container">
-          <div class="row mb-5 justify-content-center">
-            <div class="col-md-5 text-center">
-              <div class="ftco-footer-widget mb-5">
-                <ul class="ftco-footer-social list-unstyled">
-                 
-                  <li><a  target="_blank" href="https://fr.linkedin.com/in/soslan-gabarayev-214906249"><span class="icon-linkedin"></span></a></li>
-                  
-                </ul>
-              </div>
-              <div class="ftco-footer-widget">
-                <h2 class="mb-3">Contactez Moi</h2>
-                <p class="h3 email"><a href="mailto:so.gabarayev@gmail.com">so.gabarayev@gmail.com</a></p>
-              </div>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-md-12 text-center">
-
-              <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-      Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Fait avec amour  <i class="icon-heart" aria-hidden="true" style="color: red;"></i> par <a href="https://colorlib.com" target="_blank">Soslan</a>
-      <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
-            </div>
-          </div>
-        </div>
-      </footer>
+      
+      <?php 
+        include 'footer.php';
+      
+      ?>
 
       <!-- loader -->
       <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
