@@ -8284,11 +8284,13 @@ textarea.form-control {
   .blog-entry .text .heading {
     font-size: 20px;
     margin-bottom: 16px;
-    font-weight: 500; }
+    font-weight: 500;}
+
     .blog-entry .text .heading a {
       color: #fff; }
       .blog-entry .text .heading a:hover, .blog-entry .text .heading a:focus, .blog-entry .text .heading a:active {
         color: #2f89fc; }
+
 
 .blog-entry .meta > div {
   display: inline-block;

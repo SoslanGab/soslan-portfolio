@@ -23,7 +23,7 @@
           <div class="row">
             <div class="col-md-12">
               <div class="colorlib-navbar-brand">
-                <a class="colorlib-logo" href="index.html"><span class="logo-img" style="background-image: url(images/photo.jpg);"></span>Soslan Gabaraev</a>
+                <a class="colorlib-logo" href="index.php"><span class="logo-img" style="background-image: url(images/photo.jpg);"></span>Soslan Gabaraev</a>
               </div>
               <a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle"><i></i></a>
             </div>
@@ -147,7 +147,7 @@
             <div class="text">
               <h4 class="subheading uppercase">PHP/HTML/CSS</h4>
               <h2 class="heading"><a target="_blank" href="https://soslan-insta.projets.garage404.com/">Ali gram le instagram de aliexpress (mon premier projet en php) </a></h2>
-              <p>Aligram a été realisé en binomme je me suis occupé du front et un peu de back également, c'était ma première fois avec le PHP et j'en été ravi</p>
+              <p>La création d'Aligram s'est déroulée en binôme, où j'ai assumé la responsabilité du développement frontend tout en contribuant également au backend. C'était ma première expérience avec PHP, et j'en ai été pleinement satisfait.</p>
               <p><a target="_blank" href="https://soslan-insta.projets.garage404.com/">Voir le Projet</a></p>
             </div>
           </div>
@@ -188,7 +188,7 @@
             <div class="text order-1">
               <h4 class="subheading">PrestaShop</h4>
               <h2 class="heading"><a target="_blank" href="https://prestasoslan.projets.garage404.com/">TP PrestaShop</a></h2>
-              <p>EFS(Elite Fighting Shop) c'est ma decouverte de PrestaShop un module assez sympa facile a utilisé pas trés compliqué a comprendre</p>
+              <p>EFS (Elite Fighting Shop) représente ma première expérience avec PrestaShop, un module plutôt agréable à utiliser et relativement simple à appréhender.</p>
               <p><a target="_blank" href="https://prestasoslan.projets.garage404.com/">Voir le Projet</a></p>
             </div>
           </div> 
@@ -202,11 +202,24 @@
             <div class="text">
               <h4 class="subheading">React</h4>
               <h2 class="heading"><a target="_blank" href="https://reactcombat.vercel.app/">Tp Luxury</a></h2>
-              <p>Ce Tp est le premier Tp React qu'on a fait-on l'a réalisé en solo, j'ai bien aimé React j'aime beaucoup ce framework j'aimerais le perfectionner</p>
+              <p>Cette séance de travail pratique est le tout premier exercice pratique sur React que nous avons accompli en solitaire. J'ai grandement apprécié React et j'ai développé un fort intérêt pour ce framework. J'aspire à approfondir mes compétences et à le maîtriser davantage.</p>
               <p><a target="_blank" href="https://reactcombat.vercel.app/">Voir le Projet</a></p>
             </div>
           </div>     
-
+                    
+          <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
+            <a target="_blank" href="https://prestasoslan.projets.garage404.com/" class="image order-2 d-flex justify-content-center align-items-center" style="background-image: url('images/image_prestashop.png'); object-fit: contain ; " data-scrollax=" properties: { translateY: '-30%'}">
+              <div class="icon d-flex text-center justify-content-center align-items-center">
+                <span class="icon-search"></span>
+              </div>
+            </a>
+            <div class="text order-1">
+              <h4 class="subheading">WordPress</h4>
+              <h2 class="heading"><a target="_blank" href="https://prestasoslan.projets.garage404.com/">TP PrestaShop</a></h2>
+              <p>EFS(Elite Fighting Shop) c'est ma decouverte de PrestaShop un module assez sympa facile a utilisé pas trés compliqué a comprendre</p>
+              <p><a target="_blank" href="https://prestasoslan.projets.garage404.com/">Voir le Projet</a></p>
+            </div>
+          </div> 
           
         </div>
       </div>
@@ -266,34 +279,16 @@
 
     </div>
 
-
-    <script src="js/jquery.min.js"></script>
-    <script src="js/jquery-migrate-3.0.1.min.js"></script>
-    <script src="js/popper.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/jquery.easing.1.3.js"></script>
-    <script src="js/jquery.waypoints.min.js"></script>
-    <script src="js/jquery.stellar.min.js"></script>
-    <script src="js/owl.carousel.min.js"></script>
-    <script src="js/jquery.magnific-popup.min.js"></script>
-    <script src="js/aos.js"></script>
-    <script src="js/jquery.animateNumber.min.js"></script>
-    <script src="js/scrollax.min.js"></script>
-    <script src="js/bootstrap-datepicker.js"></script>
-    <script src="js/jquery.timepicker.min.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
-    <script src="js/google-map.js"></script>
-    <script src="js/main.js"></script>
-    <script>
-      let pageTitle = "Portfolio Soslan";
+<script>
+		let pageTitle = "Portfolio Soslan";
         
-        window.addEventListener("blur", function() {
-            document.title = "Revient stpl  🥺  🥺 ";
-        });
-        window.addEventListener("focus", function() {
-            document.title = pageTitle;
-        });
-    </script>
+		window.addEventListener("blur", function() {
+			document.title = "Revenez svp  🥺🥺 ";
+		});
+		window.addEventListener("focus", function() {
+			document.title = pageTitle;
+		});
+</script>
     
   </body>
 </html>

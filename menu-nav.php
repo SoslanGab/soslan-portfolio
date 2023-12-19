@@ -36,12 +36,11 @@
         <div class="colorlib-table-cell js-fullheight">
           <div class="row no-gutters">
             <div class="col-md-12 text-center">
-              <h1 class="mb-4"><a href="index.html" class="logo">Soslan Gabaraev</a></h1>
+              <h1 class="mb-4"><a href="index.php" class="logo">Soslan Gabaraev</a></h1>
               <ul>
-                <li class="active"><a href="index.html"><span><small>01</small>Accueil</span></a></li>
+                <li class="active"><a href="index.php"><span><small>01</small>Accueil</span></a></li>
                 <li><a href="about.php"><span><small>02</small>A propos</span></a></li>
-                <li><a href="portfolio.html"><span><small>04</small>Portfolio</span></a></li>
-                <li><a href="blog.html"><span><small>05</small>Blog</span></a></li>
+                <li><a href="blog.php"><span><small>05</small>Blog</span></a></li>
               </ul>
             </div>
           </div>
