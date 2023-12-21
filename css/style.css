@@ -7543,7 +7543,8 @@ header {
         position: absolute;
         top: 0;
         left: 0;
-        border-radius: 50%; }
+        border-radius: 50%;
+        background-size: contain; }
       header .colorlib-navbar-brand .colorlib-logo:hover {
         text-decoration: none !important; }
       header .colorlib-navbar-brand .colorlib-logo:active, header .colorlib-navbar-brand .colorlib-logo:focus {
@@ -8211,7 +8212,7 @@ textarea.form-control {
 .author-img,
 .logo-img,
 .user-img {
-  background-size: cover;
+
   background-repeat: no-repeat;
   background-position: center center; }
 
@@ -8219,7 +8220,7 @@ textarea.form-control {
   cursor: -webkit-zoom-in;
   cursor: -moz-zoom-in;
   cursor: zoom-in; }
-
+ 
 .mfp-with-zoom .mfp-container,
 .mfp-with-zoom.mfp-bg {
   opacity: 0;

@@ -23,7 +23,7 @@
           <div class="row">
             <div class="col-md-12">
               <div class="colorlib-navbar-brand">
-                <a class="colorlib-logo" href="index.php"><span class="logo-img" style="background-image: url(images/photo.jpg);"></span>Soslan Gabaraev</a>
+                <a class="colorlib-logo" href="index.php"><span class="logo-img" style="background-image: url(images/image-profil.png); background-image: contain !important;"></span>Soslan Gabaraev</a>
               </div>
               <a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle"><i></i></a>
             </div>
@@ -61,13 +61,13 @@
       <section class="ftco-section about-section">
         <div class="container">
           <div class="row d-flex" data-scrollax-parent="true">
-            <div class="col-md-4 author-img" style="background-image: url(images/photo.jpg);" data-scrollax=" properties: { translateY: '-70%'}"></div>
+            <div class="col-md-4 author-img" style="background-image: url(images/image-profil.png); height:450px; " data-scrollax=" properties: { translateY: '-70%'}"></div>
             <div class="col-md-2"></div>
             <div class="col-md-6 wrap ftco-animate">
               <div class="about-desc">
                 <!-- <p class="bold-text">A propos</p> -->
                 <div class="p-5">
-                  <h2 class="mb-5 background">Salut! Voici un résumer sur moi</h2>
+                  <h2 class="mb-5 background">Salut ! Voici un résumé à propos de moi.</h2>
                   <p>J'ai 22 ans, je suis actuellement en formation développeur web fullstack et je suis pationner par le monde de l'informatique   je vous conseil d'aller voir mon <a target="_blank" href="https://www.whire.me/@soslan">whire</a> si vous voulez en savoir plus sur moi</p>
                   <p><a target="_blank" href="CV/soslan_cv.pdf" download="soslan_cv">Voir Le CV</a></p>
                   <ul class="ftco-footer-social list-unstyled mt-4">
@@ -146,7 +146,7 @@
             </a>
             <div class="text">
               <h4 class="subheading uppercase">PHP/HTML/CSS</h4>
-              <h2 class="heading"><a target="_blank" href="https://soslan-insta.projets.garage404.com/">Ali gram le instagram de aliexpress (mon premier projet en php) </a></h2>
+              <h2 class="heading"><a target="_blank" href="https://soslan-insta.projets.garage404.com/">AliGram, l'équivalent d'Instagram pour AliExpress (mon premier projet en PHP)</a></h2>
               <p>La création d'Aligram s'est déroulée en binôme, où j'ai assumé la responsabilité du développement frontend tout en contribuant également au backend. C'était ma première expérience avec PHP, et j'en ai été pleinement satisfait.</p>
               <p><a target="_blank" href="https://soslan-insta.projets.garage404.com/">Voir le Projet</a></p>
             </div>
@@ -208,16 +208,16 @@
           </div>     
                     
           <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-            <a target="_blank" href="https://prestasoslan.projets.garage404.com/" class="image order-2 d-flex justify-content-center align-items-center" style="background-image: url('images/image_prestashop.png'); object-fit: contain ; " data-scrollax=" properties: { translateY: '-30%'}">
+            <a target="_blank" href="https://app-dreamteam-wordpress.projets.garage404.com/" class="image order-2 d-flex justify-content-center align-items-center" style="background-image: url('images/image_deadfest.png'); object-fit: contain ; " data-scrollax=" properties: { translateY: '-30%'}">
               <div class="icon d-flex text-center justify-content-center align-items-center">
                 <span class="icon-search"></span>
               </div>
             </a>
             <div class="text order-1">
               <h4 class="subheading">WordPress</h4>
-              <h2 class="heading"><a target="_blank" href="https://prestasoslan.projets.garage404.com/">TP PrestaShop</a></h2>
-              <p>EFS(Elite Fighting Shop) c'est ma decouverte de PrestaShop un module assez sympa facile a utilisé pas trés compliqué a comprendre</p>
-              <p><a target="_blank" href="https://prestasoslan.projets.garage404.com/">Voir le Projet</a></p>
+              <h2 class="heading"><a target="_blank" href="https://app-dreamteam-wordpress.projets.garage404.com/">Tp wordpress</a></h2>
+              <p>Voici l'une de mes fiertés, le projet WordPress/WooCommerce. J'ai adoré travailler sur WordPress, car il est très convivial et facile à prendre en main. J'ai utilisé Elementor pour la conception. WooCommerce est un plugin exceptionnel qui simplifie considérablement la gestion de produits et d'autres fonctionnalités.</p>
+              <p><a target="_blank" href="https://app-dreamteam-wordpress.projets.garage404.com/">Voir le Projet</a></p>
             </div>
           </div> 
           

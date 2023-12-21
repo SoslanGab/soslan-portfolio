@@ -23,7 +23,7 @@
 			<div class="row">
 				<div class="col-md-12">
 				<div class="colorlib-navbar-brand">
-					<a class="colorlib-logo" href="index.php"><span class="logo-img" style="background-image: url(images/photo.jpg);"></span>Soslan Gabaraev</a>
+				<a class="colorlib-logo" href="index.php"><span class="logo-img" style="background-image: url(images/image-profil.png); background-image: contain !important;"></span>Soslan Gabaraev</a>
 				</div>
 				<a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle"><i></i></a>
 				</div>
@@ -34,7 +34,7 @@
 		<section class="ftco-section about-section">
 			<div class="container">
 			<div class="row d-flex" data-scrollax-parent="true">
-				<div class="col-md-4 author-img" style="background-image: url(images/photo.jpg);" data-scrollax=" properties: { translateY: '-70%'}"></div>
+			<div class="col-md-4 author-img" style="background-image: url(images/image-profil.png); height:450px; " data-scrollax=" properties: { translateY: '-70%'}"></div>
 				<div class="col-md-2"></div>
 				<div class="col-md-6 wrap ftco-animate">
 				<div class="about-desc">

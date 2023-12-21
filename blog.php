@@ -34,13 +34,13 @@
 	      <div class="container mt-5">
 	      	<div class="row justify-content-center mb-5 pb-5">
             <div class="col-md-7 text-center heading-section ftco-animate">
-              <span>Cette page est un petit blog ou je posterais des petite story de ce qu'il ce passe dans ma vie</span>
+              <span>Cette page est un blog personnel où je publierai des récits variés sur ce qui se passe dans ma vie, tant sur le plan professionnel que personnel.</span>
             </div>
           </div>
 	        <div class="row">
 	          <div class="col-md-4 ftco-animate">
 	            <div class="blog-entry">
-	              <a href="blog-single.html" class="block-20" style="background-image: url('images/about/photo.jpg');">
+	              <a href="" class="block-20" style="background-image: url('images/about/photo.jpg');">
 	              </a>
 	              <div class="text p-4 d-block">
 	                <div class="meta mb-3">
@@ -53,7 +53,7 @@
 	          </div>
 	          <div class="col-md-4 ftco-animate">
 	            <div class="blog-entry" data-aos-delay="100">
-	              <a href="blog-single.html" class="block-20" style="background-image: url('images/about/Framework-Symfony.png');">
+	              <a href="" class="block-20" style="background-image: url('images/about/Framework-Symfony.png');">
 	              </a>
 	              <div class="text p-4">
 	                <div class="meta mb-3">
@@ -66,7 +66,7 @@
 	          </div>
 	          <div class="col-md-4 ftco-animate">
 	            <div class="blog-entry" data-aos-delay="200">
-	              <a href="blog-single.html" class="block-20" style="background-image: url('images/about/react.png');">
+	              <a href="" class="block-20" style="background-image: url('images/about/react.png');">
 	              </a>
 	              <div class="text p-4">
 	                <div class="meta mb-3">
@@ -74,6 +74,20 @@
 	                  <div><a href="#">React</a></div>
 	                </div>
 	                <h3 class="heading text-center">Le moment que je redoutais le plus est arrivé : "React JS". Je ne suis pas un grand fan de JavaScript, pourtant React a réussi à changer mon point de vue. Je suis surpris par la puissance de ce framework et j'ai hâte de pouvoir l'utiliser dans des cas concrets en entreprise.</h3>
+	              </div>
+	            </div>
+	          </div>
+
+	          <div class="col-md-4 ftco-animate">
+	            <div class="blog-entry" data-aos-delay="200">
+	              <a href="" class="block-20" style="background-image: url('images/about/boxe-thai.jpg');">
+	              </a>
+	              <div class="text p-4">
+	                <div class="meta mb-3">
+	                  <div><a href="#">Octobre, 2023</a></div>
+	                  <div><a href="#">Sport</a></div>
+	                </div>
+	                <h3 class="heading text-center">Récemment, j'ai découvert la lutte libre et le Muay Thai, et je suis ravi de la façon dont ces disciplines me permettent de décompresser après le travail. Passant la journée assis sur une chaise, il est essentiel pour moi de pratiquer ces sports pour maintenir ma forme physique et obtenir une nouvelle perspective sur la vie.</h3>
 	              </div>
 	            </div>
 	          </div>

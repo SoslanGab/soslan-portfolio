@@ -40,7 +40,7 @@
               <ul>
                 <li class="active"><a href="index.php"><span><small>01</small>Accueil</span></a></li>
                 <li><a href="about.php"><span><small>02</small>A propos</span></a></li>
-                <li><a href="blog.php"><span><small>05</small>Blog</span></a></li>
+                <li><a href="blog.php"><span><small>03</small>Blog</span></a></li>
               </ul>
             </div>
           </div>
