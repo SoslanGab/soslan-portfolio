@@ -37,7 +37,7 @@
           <div class="container">
             <div class="row slider-text align-items-center text-center justify-content-center" data-scrollax-parent="true">
               <div class="col-md-12 ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
-                <p><a href="#" class="scroll">Salut je suis</a></p>
+                <p><a href="#" class="scroll">Je me présente</a></p>
                 <h1 class="mb-3" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Gabaraev Soslan</h1>
               </div>
             </div>
@@ -49,8 +49,8 @@
           <div class="container">
             <div class="row slider-text align-items-center text-center justify-content-center" data-scrollax-parent="true">
               <div class="col-md-12 ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
-                <p><a href="#" class="scroll">Je suis développeur</a></p>
-                <h1 class="mb-3" data-scrollax="properties: {translateY: '30%', opacity: 1.6}">FullStack</h1>
+                <p><a href="#" class="scroll">Je suis développeur web</a></p>
+                <h1 class="mb-3" data-scrollax="properties: {translateY: '30%', opacity: 1.6}">junior</h1>
               </div>
             </div>
           </div>
@@ -67,9 +67,9 @@
               <div class="about-desc">
                 <!-- <p class="bold-text">A propos</p> -->
                 <div class="p-5">
-                  <h2 class="mb-5 background">Salut ! Voici un résumé à propos de moi.</h2>
-                  <p>J'ai 22 ans, je suis actuellement en formation développeur web fullstack et je suis pationner par le monde de l'informatique   je vous conseil d'aller voir mon <a target="_blank" href="https://www.whire.me/@soslan">whire</a> si vous voulez en savoir plus sur moi</p>
-                  <p><a target="_blank" href="CV/soslan_cv.pdf" download="soslan_cv">Voir Le CV</a></p>
+                  <h2 class="mb-5 background">A propos de moi.</h2>
+                  <p>J'ai 22 ans, je suis actuellement en formation développeur web et web mobile. Je suis passionné par les métiers du web et je vous conseil d'aller voir mon <a target="_blank" href="https://www.whire.me/@soslan">whire</a> si vous voulez en savoir plus sur moi.</p>
+                  <p><a target="_blank" href="CV/soslancv.pdf" download="soslan_cv">Voir Le CV</a></p>
                   <ul class="ftco-footer-social list-unstyled mt-4">
                     <li><a  target="_blank" href="https://fr.linkedin.com/in/soslan-gabarayev-214906249"><span class="icon-linkedin"></span></a></li>
                   </ul>
@@ -88,7 +88,7 @@
           <div class="row justify-content-center mb-5 pb-5">
             <div class="col-md-7 text-center heading-section ftco-animate">
               <span>Compétence</span>
-              <h2>My services</h2>
+              <!-- <h2>My services</h2> -->
             </div>
           </div>
           <div class="row">
@@ -147,7 +147,7 @@
             <div class="text">
               <h4 class="subheading uppercase">PHP/HTML/CSS</h4>
               <h2 class="heading"><a target="_blank" href="https://soslan-insta.projets.garage404.com/">AliGram, l'équivalent d'Instagram pour AliExpress (mon premier projet en PHP)</a></h2>
-              <p>La création d'Aligram s'est déroulée en binôme, où j'ai assumé la responsabilité du développement frontend tout en contribuant également au backend. C'était ma première expérience avec PHP, et j'en ai été pleinement satisfait.</p>
+              <p>La création d'Aligram s'est déroulée en binôme, dans lequel j'ai assumé la responsabilité du développement frontend tout en contribuant également au backend. C'était ma première expérience avec PHP, et j'en ai été pleinement satisfait.</p>
               <p><a target="_blank" href="https://soslan-insta.projets.garage404.com/">Voir le Projet</a></p>
             </div>
           </div>
@@ -160,7 +160,7 @@
             <div class="text order-1">
               <h4 class="subheading">POO</h4>
               <h2 class="heading"><a target="_blank" href="https://soslan-combat.projets.garage404.com/">Le Tp Combat</a></h2>
-              <p>Ce Tp était travaillé en solo, c'est le Tp qui m'a le plus plus au vu de la thématique je suis un grand fan de combat alors je me suis régalé sur le front. C'était notre premier projet en POO</p>
+              <p>Ce Tp à été fait seul, c'est un Tp qui m'a motivé de par sa themathique étant donné que je suis un grand fan de combat. C'était notre premier projet en POO.</p>
               <p><a target="_blank" href="https://soslan-combat.projets.garage404.com/">Voir le Projet</a></p>
             </div>
           </div>
@@ -174,7 +174,7 @@
             <div class="text">
               <h4 class="subheading">Symfony</h4>
               <h2 class="heading"><a target="_blank" href="https://soslan-luxury.projets.garage404.com/">Tp Luxury</a></h2>
-              <p>Ce Tp est le premier Tp Symfony qu'on a fait-on l'a réalisé en solo, j'ai bien aimé Symfony j'aime beaucoup ce framework j'aimerais le perfectionner</p>
+              <p>Ce Tp est le premier Tp Symfony qu'on a fait, il a été realisé en autonomie, j'ai bien aimé Symfony j'aime beaucoup ce framework j'aimerais le perfectionner.</p>
               <p><a target="_blank" href="https://soslan-luxury.projets.garage404.com/">Voir le Projet</a></p>
             </div>
           </div>
@@ -201,8 +201,8 @@
             </a>
             <div class="text">
               <h4 class="subheading">React</h4>
-              <h2 class="heading"><a target="_blank" href="https://reactcombat.vercel.app/">Tp Luxury</a></h2>
-              <p>Cette séance de travail pratique est le tout premier exercice pratique sur React que nous avons accompli en solitaire. J'ai grandement apprécié React et j'ai développé un fort intérêt pour ce framework. J'aspire à approfondir mes compétences et à le maîtriser davantage.</p>
+              <h2 class="heading"><a target="_blank" href="https://reactcombat.vercel.app/">Tp React</a></h2>
+              <p>Ce projet  est le tout premier exercice pratique sur React que nous avons accompli en solitaire. J'ai grandement apprécié React et j'ai développé un fort intérêt pour ce framework. J'aspire à approfondir mes compétences et à le maîtriser davantage.</p>
               <p><a target="_blank" href="https://reactcombat.vercel.app/">Voir le Projet</a></p>
             </div>
           </div>     
@@ -216,7 +216,7 @@
             <div class="text order-1">
               <h4 class="subheading">WordPress</h4>
               <h2 class="heading"><a target="_blank" href="https://app-dreamteam-wordpress.projets.garage404.com/">Tp wordpress</a></h2>
-              <p>Voici l'une de mes fiertés, le projet WordPress/WooCommerce. J'ai adoré travailler sur WordPress, car il est très convivial et facile à prendre en main. J'ai utilisé Elementor pour la conception. WooCommerce est un plugin exceptionnel qui simplifie considérablement la gestion de produits et d'autres fonctionnalités.</p>
+              <p>Voici l'une de mes fiertés, le projet WordPress/WooCommerce. J'ai adoré travailler sur WordPress car il est très convivial et facile à prendre en main. J'ai utilisé Elementor pour la conception. WooCommerce est un plugin exceptionnel qui simplifie considérablement la gestion de produits et d'autres fonctionnalités.</p>
               <p><a target="_blank" href="https://app-dreamteam-wordpress.projets.garage404.com/">Voir le Projet</a></p>
             </div>
           </div> 
@@ -230,15 +230,15 @@
           <div class="row justify-content-center mb-5 pb-5">
             <div class="col-md-7 text-center heading-section ftco-animate">
               <span>Portfolio</span>
-              <h2>Mes accomplissement</h2>
+              <h2>Mes accomplissements</h2>
             </div>
           </div>
           <div class="row d-flex justify-content-start">
             <div class="col-md-5 col-sm-5 counter-wrap ftco-animate">
               <div class="block-18">
                 <div class="text">
-                  <span class="ftco-label">Rage quitte</span>
-                  <strong class="number" data-number="420">0</strong>
+                  <span class="ftco-label">Ragequit</span>
+                  <strong class="number" data-number="0">0</strong>
                 </div>
               </div>
             </div>
@@ -248,7 +248,7 @@
               <div class="block-18">
                 <div class="text">
                   <span class="ftco-label">Projet fini</span>
-                  <strong class="number" data-number="7">0</strong>
+                  <strong class="number" data-number="6">0</strong>
                 </div>
               </div>
             </div>
